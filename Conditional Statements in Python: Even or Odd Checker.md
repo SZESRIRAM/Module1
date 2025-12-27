@@ -23,3 +23,4 @@ else:
 <img width="390" height="315" alt="image" src="https://github.com/user-attachments/assets/27930fa3-13b0-4b4d-b9fc-38679e912da1" />
 
 ## Result
+Thus, the given program has been executed successfully and the number is checked as even or odd using conditional statements.
