@@ -25,3 +25,4 @@ print(z.imag)
 <img width="390" height="303" alt="image" src="https://github.com/user-attachments/assets/6ce57493-e5cd-4d47-b621-235a9ca9f5fe" />
 
 ## Result
+Thus, the given program has been executed successfully and the complex number along with its real and imaginary parts is printed correctly.
